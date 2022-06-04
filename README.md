@@ -1,1 +1,2 @@
 # signAid
+For sign language detection, powerful mediapipe library is used to trace the keypoints on our hands, a LSTM model is created for efficient detection and prediction of finger spelling based American Sign Language. Opencv is used to collect the data & run the script in real time, thus detecting A-Z easily. An American Sign language Dectection Tool is developed. From the sign-aid script you can predict all the fingerspelling based hand signs, the model achieved an accuracy of 97.9%
